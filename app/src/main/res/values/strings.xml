@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Spinner List</string>
+    <string-array name="cars">
+        <item>McLaren</item>
+        <item>Ferrari</item>
+        <item>Lamborghini</item>
+        <item>Bugati</item>
+        <item>Pagani</item>
+        <item>Porsche</item>
+
+
+    </string-array>
+
+
+
+
+</resources>
